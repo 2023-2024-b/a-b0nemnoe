@@ -1,4 +1,4 @@
-namespace Kreta.Backend
+namespace Kreta
 {
     public class WeatherForecast
     {
